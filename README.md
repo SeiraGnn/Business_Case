@@ -1,5 +1,5 @@
-# Sample Business Case
-Showcase project of a fictional business case where you are asked to produce and Analytics Report comparing three different sales strategies for a company.  The project goal is to use Python to Explore, Visualize, and Analyze the company sales' data to establish a Business Metric and issue recommendations. 
+# Sample Data Analyst Business Case
+Showcase project of a fictional Data Analyst business case where you are asked to produce and Analytics Report comparing three different sales strategies for a company.  The project goal is to use Python to Explore, Visualize, and Analyze the company sales' data to establish a Business Metric and issue recommendations. 
 
 There are two files included:
 
