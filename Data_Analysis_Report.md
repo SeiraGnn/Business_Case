@@ -1,3 +1,16 @@
+# Introduction
+
+The company has launched new products a few weeks ago and decided to utilize three different sales strategies, to gather data and, hopefully, find out which strategy yields a better result. The strategies are:
+- Email: Customers in this group received an email when the product line was launched, and a further email three weeks later. This required very little work for the team.
+- Call: Customers were called by a member of the sales team. On average, members of the team were on the phone for around 30 mins per customer.
+- Email and call: Customers were first sent the product information email, then called a week later to talk about their needs and questions. The email required little work, and the call was on average 10 mins per customer.
+
+The sales manager has asked your department to analyze the data, gather insights and issue recommendations regarding the performance of the three strategies.  Your analytics supervisor will be out of office for a while and has tasked you with conducting the analysis and writing a report to him with your findings. You are free to make any necessary assumptions and revise them later when he arrives.
+
+They've sent you this table describing the data, so you can properly validate.
+
+![Data information table](data_table.PNG)
+
 # Data Validation and Cleaning
 
 The dataset contains **15,000 rows and 8 columns** before cleaning and validation. The validation of the data was done by columns, based on the data information provided, as follows:
