@@ -9,7 +9,7 @@ The sales manager has asked your department to analyze the data, gather insights
 
 They've sent you this table describing the data, so you can properly validate.
 
-![Data information table](data_table.PNG)
+![Data information table](imgs/data_table.PNG)
 
 # Data Validation and Cleaning
 
